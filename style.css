@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body {font-family: 'Roboto', sans-serif;
+ 
+    background-color: aquamarine;
+    background-image: url(images/morocco_13-PARA-WEB.jpg);
+}
+UL{
+
+list-style: none;
+text-shadow: 50px;
+color: black;
+margin-left: 50px;
+
+}
+
+a{
+text-decoration: none;
+}
+p {color: #3d4166;
+overflow: hidden;
+}
+
+div{
+font-size: 25px;
+    width: 400;
+    height: 250;
+}
+
+li {display: inline;
+padding: 30px; margin-left: 35px;
+text-size-adjust: 20;
+
+}
+
+.mundofoto {height: 250;
+    width: 200;
+    margin-top: 50px;
+    border: 3px;
+    text-align: center;
+}
+
+.mundocine {height: 250;
+    width: 20;
+    margin-top: 30px;
+    border: 3px;
+    text-align: center;
+}
+.inicio{ height: 250;
+width: 1000;
+border: 3px snow;
+margin-left: 15px;
+text-align: justify;}
+
+.documentales {height: 120;
+    width: 100;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    border: 15px;
+    text-align:justify;
+}
+
+.fotografia {height: 120;
+    width: 100;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    border: 15px;
+    text-align:justify;
+}
+.titulosobremi {
+    margin-left: 400px;
+    margin-top: 50px;   
+}
+
+.micv {height: 120;
+    width: 100;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 20px;
+    border: 15px;
+    text-align:justify;
+}
+
+.mifoto {
+    margin-left: 400px;
+    margin-top: 50px;   
+}
+
+
+.tituloindex {
+    padding: 20px;
+    margin-left: 450px;
+    margin-top: 20px;  
+    
+       
+}
+
+.parrafoinicio {height: 250;
+    width: 20;
+    border: 3px;
+    text-align: center;
+}
+.fotoinicio {
+    margin-left: 400px;
+    margin-top: 50px;   
+    width: 5%;
+}
+.titulodireccion {
+    padding: 20px;
+    margin-left: 500px;
+    margin-top: 20px;  
+    
+       
+}
+.mapa {
+    margin-left: 400px;
+    margin-top: 20px;   
+    width: 15%;
+}
+.tituloformulario {
+    padding: 20px;
+    margin-left: 450px;
+    margin-top: 20px;  
+    
+       
+}
+.formulario {
+    margin-left: 400px;
+    margin-top: 20px;   
+    width: 20%;
+}
+
+.documentales {
+    padding: 20px;
+    margin-left: 450px;
+    margin-top: 20px;    
+       
+}
+
+.parrafodocumentales {height: 250;
+    width: 20;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
+
+.fotografia {
+    padding: 20px;
+    margin-left: 450px;
+    margin-top: 20px;    
+       
+}
+
+.parrafofotografia {height: 250;
+    width: 20;
+    margin-left: 40px;
+    margin-right: 40px;
+    text-align: justify;
+}
